@@ -23,7 +23,7 @@ int main( ){
     rent=(20*basic_salary)/100;
     
     printf("Rent = %d\n",rent);
-    /* Calculating the gross_salary which is the combinatin of basic_salry, allowance and rent
+    /* Calculating the gross_salary which is the combination of basic_salary, allowance and rent
     */
     gross_salary=basic_salary + allowance + rent;
     
