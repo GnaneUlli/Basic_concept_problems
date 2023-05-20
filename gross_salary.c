@@ -30,6 +30,7 @@ int main( ){
     printf("Ramesh gross_salary = %d\n",gross_salary);
 
 }
-/* In the above program I used all the int data types for the 
-round figures If we want exact salary with decimal values we can use float data type */
+/* In the above program I used only int data types for the 
+round figures If we want exact salary with decimal values 
+we can use float data type */
 
