@@ -1,7 +1,5 @@
 #include <stdio.h>
-
 int main( ){
-    
     int basic_salary,allowance,rent,gross_salary;
     /* Here I declared all the necessary variables 
     for requirement of calculating gross salary 
