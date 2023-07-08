@@ -13,7 +13,6 @@ int main() {
     printf("Enter length of rectangle: ");
     /* We use the scanf function to read these values from the 
     keyboard and store them in the corresponding variables */
-    
     scanf("%f", &length);
 
     printf("Enter breadth of rectangle: ");
