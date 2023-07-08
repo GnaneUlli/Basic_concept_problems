@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     /* In this program, we declare variables length, breadth, and radius 
     to store the dimensions of the rectangle and the radius of the circle.
