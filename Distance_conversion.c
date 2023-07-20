@@ -8,7 +8,6 @@ int main(){
     printf("Enter the distance in kilo meters ");
     scanf("%f",&km);
     /* storing of  Kilometers in km variable */
-    
     m = km * 1000;
     /* we know that kilometers can be converted into 
     meters by multiplying kilometers and thousand */
