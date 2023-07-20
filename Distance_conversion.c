@@ -2,7 +2,6 @@
 int main(){
     /* The main aim of this program is to convert given distance which is in 
     kilometers into differnt parametrs of distance */
-    
     float km, m, cm, ft, inch;
     /* In this I declared neccesary variables to store given 
     input and to print required data */
