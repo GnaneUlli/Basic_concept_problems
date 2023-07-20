@@ -5,9 +5,7 @@ int main(){
     float km, m, cm, ft, inch;
     /* In this I declared neccesary variables to store given 
     input and to print required data */
-    
     printf("Enter the distance in kilo meters ");
-    
     scanf("%f",&km);
     /* storing of  Kilometers in km variable */
     
