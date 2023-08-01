@@ -5,7 +5,7 @@ int main( ){
     for requirement of calculating gross salary 
     using the given basic salary */
     
-    printf("Enter Basic salary ");
+    printf("Enter Basic salary : ");
     
     scanf("%d",&basic_salary);
     /* In the above line I stored the input basic salary in the 
